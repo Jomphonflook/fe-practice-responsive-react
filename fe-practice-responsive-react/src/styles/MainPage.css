@@ -7,8 +7,12 @@
 }
 
 .topbgimage {
-   background-image: url(../../images/Rectangle\ 1.png);
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    background-image: url(../../images/Rectangle\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer-font-family {
+    font-family: 'Inter';
 }
